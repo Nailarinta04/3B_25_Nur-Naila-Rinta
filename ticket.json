@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676d047879ab689f8ea5c0ad"},"noid":"011","level":"vvip","name":"naila","email":"nanai@nai","event":"nexus festival","duedate":"11-12-2024"}
+{"_id":{"$oid":"676d04fc79ab689f8ea5c0ae"},"noid":"002","level":"vip","name":"zevin","emaial":"jepin@pin","event":"nexsus festival","duedate":"11-12-2024"}
+{"_id":{"$oid":"676d056b79ab689f8ea5c0af"},"noid":"003","level":"regular","name":"alfina","email":"pinot@not","event":"nexus festival","duedate":"11-12-2024"}
